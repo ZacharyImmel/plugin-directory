@@ -1,11 +1,10 @@
 [
   {
-    "title": "Last-updated indicator",
-    "description": "Mark your designs with a version indicator which automatically changes as you update.",
-    "author": "Bram van Mensvoort",
-    "homepage": "https://github.com/bvmensvoort/sketch-last-updated",
-    "appcast": "https://raw.githubusercontent.com/bvmensvoort/sketch-last-updated/master/appcast.xml",
-    "lastUpdated": "2020-04-26 13:37:00 UTC"
+    "title": "Medifit",
+    "description": "Supplies conditions, treatments, and medications for nine body systems, diabetes, allergies, and cancers.",
+    "author": "Zachary Immel",
+    "homepage": "https://github.com/ZacharyImmel/Medifit",
+    "lastUpdated": "2020-05-08"
   },
   {
     "title": "XD2Sketch Converter",
